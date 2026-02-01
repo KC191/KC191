@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kamlesh Chowdhary
+<h1 align="center">Hi 👋, I'm Kamlesh Chowdhary</h1>
 
 **Computer Science Engineering Student | Machine Learning Enthusiast | Creative Full-Stack Web Developer | Passionate About Building Impactful & User-Friendly Solutions**  
 
@@ -60,7 +60,6 @@ Hi! I’m Kamlesh Chowdhary, a BTech Computer Science student with a passion for
 -   [Introduction to Machine Learning](https://www.perplexity.ai/search/--no-link--)  | NPTEL, IIT Madras
     
 -   [Google Cloud Generative AI](https://www.perplexity.ai/search/--no-link--)  | SmartBridge
-    
 
 -   [DevOps, Agile & Design Thinking](https://courses.vit.skillsnetwork.site/certificates/0da8ebab516349a2939c9c47f682dca7)  | IBM
     
@@ -69,10 +68,24 @@ Hi! I’m Kamlesh Chowdhary, a BTech Computer Science student with a passion for
 ---
 
 ### 📊 **GitHub Stats**
-### 📊 GitHub Analytics
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=KC191&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KC191&layout=compact&theme=radical)
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KC191&show_icons=true&theme=radical" />
+</p>
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KC191&layout=compact&theme=radical" />
+</p>
+
+### 📊 **LeetCode**
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/KamleshChowdhary?theme=dark&font=baloo&ext=contest" />
+</p>
+
 
 
 
@@ -81,3 +94,4 @@ Hi! I’m Kamlesh Chowdhary, a BTech Computer Science student with a passion for
 ### 📫 **Let's Connect**
 - [LinkedIn](http://www.linkedin.com/in/kamlesh-chowdhary-22868a292)
 - [Email](mailto:er.kamleshchowdhary191@gmail.com)
+- [LeetCode](https://leetcode.com/u/KamleshChowdhary/)
