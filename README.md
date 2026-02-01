@@ -69,8 +69,12 @@ Hi! I’m Kamlesh Chowdhary, a BTech Computer Science student with a passion for
 ---
 
 ### 📊 **GitHub Stats**
-[![Kamlesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KC191&show_icons=true&theme=radical)](https://github.com/KC191)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KC191&layout=compact&theme=radical)](https://github.com/KC191)
+### 📊 GitHub Analytics
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=KC191&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KC191&layout=compact&theme=radical)
+
+
 
 ---
 
